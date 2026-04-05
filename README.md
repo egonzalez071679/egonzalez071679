@@ -71,6 +71,6 @@ GRC Analyst · Cybersecurity PM · SOC Analyst · IR/DFIR Analyst
 
 ## 📫 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/esteban-gonzalez-3400ab233)
+[![LinkedIn](https://www.linkedin.com/in/esteban-gonzalez-3400ab233/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/yourusername)
 [![Email](egonzalez.1679@gmail.com)
