@@ -48,10 +48,10 @@ Currently studying full time — 6 hours daily.
 
 | Repository | Description |
 |------------|-------------|
-| [tryhackme-writeups](link) | THM room solutions and learnings |
-| [cybersecurity-labs](link) | Home lab exercises and documentation |
-| [ir-reports](link) | Practice IR reports and investigations |
-| [homelab-configs](link) | Lab environment setup guides |
+| [tryhackme-writeups](https://github.com/egonzalez071679/tryhackme-writeups) | THM room solutions and learnings |
+| [cybersecurity-labs](https://github.com/egonzalez071679/cybersecurity-labs) | Home lab exercises and documentation |
+| [ir-reports](https://github.com/egonzalez071679/ir-reports) | Practice IR reports and investigations |
+| [homelab-configs](https://github.com/egonzalez071679/homelab-configs) | Lab environment setup guides |
 
 ---
 
